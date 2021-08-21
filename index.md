@@ -1,6 +1,7 @@
 # Welcome to The Brain Game, Season 1
 
-You will be given 3 problems of easy, medium and hard difficulty. First 3 people to send in correct solutions will be featured in Hall of Fame on this site and will get a surprise voucher
+You will be given 2 problems of medium and hard difficulty. 
+**First 3 people to send in correct solutions will be featured in Hall of Fame on this site and will get a surprise voucher**
 
 Each problem is described in 2 parts. First part is the puzzle part which you can solve using general knowledge.
 For the second part, you might need to write the code in the programming language of your choice.  
@@ -9,21 +10,23 @@ If you do not know coding, no issues. You can just mail me the first part of sol
 
 So let the games begin !!!! 
 
+<br /> <br /> 
+
 ## Find the counterfeit 
 We are given 8 coins of which 1 is fake. 
-But the scamsters are smart and it is not known if the coin is heavier or lighter  
-You have a 2 pan balance like the one shown below
+But the scamsters are smart and it is not known if the coin is heavier or lighter. You have a 2 pan balance like the one shown below can you find the fake coin? 
 <img src="https://assets.telegraphindia.com/telegraph/c33930ea-b58d-4cb3-ba31-13adbec14f26.jpg">
-In how many steps can you figure out which is the fake coin   
+How many times do you have to use the pan balance to figure it out   
 
-###Bonus Part
+
+### Bonus Part
 Can you solve the same for 30 coins 
 
-###Bonus Part 2
+### Bonus Part 2
 What if I ask you to solve for N coins. can you write a code for this?
 
-## Too Many Ants
 
+<br /> <br /> 
 
 ## Scale the Bell Tower
 This is a famous puzzle. 
@@ -44,7 +47,7 @@ This will end up having 99 drops if the eggs break from 100th floor.
 So you need to think more on this.
 
 
-###Bonus Part
+### Bonus Part
 If you can give the equation you have used to solve this problem. You get bonus points  
 
 ### Support or Contact

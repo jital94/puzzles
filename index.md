@@ -14,8 +14,10 @@ So let the games begin !!!!
 
 ## Find the counterfeit 
 We are given 8 coins of which 1 is fake. 
-But the scamsters are smart and it is not known if the coin is heavier or lighter. You have a 2 pan balance like the one shown below can you find the fake coin? 
-<img width="300" height="300" src="https://assets.telegraphindia.com/telegraph/c33930ea-b58d-4cb3-ba31-13adbec14f26.jpg">
+But the scamsters are smart and it is not known if the coin is heavier or lighter. You have a 2 pan balance like the one shown below can you find the fake coin?
+
+<br />
+<img src="https://assets.telegraphindia.com/telegraph/c33930ea-b58d-4cb3-ba31-13adbec14f26.jpg">
 <br />
 
 How many times do you have to use the pan balance to figure it out   

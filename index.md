@@ -27,7 +27,7 @@ How many times do you have to use the pan balance to figure it out
 Can you solve the same for 30 coins 
 
 ### Bonus Part 2
-What if I ask you to solve for N coins. can you write a code for this?
+What if I ask you to solve for N coins. Can you write a code for this?
 
 
 <br /> <br /> 
@@ -36,20 +36,19 @@ What if I ask you to solve for N coins. can you write a code for this?
 This is a famous puzzle. 
 
 We have two eggs and we wish to know which floor of 100-floor high Bell Tower it is safe to throw the egg.
-We may make a few assumptions:
+We need to divise a strategy such that total number of drops in worst case is minimum. 
 
+So obviously, if you thought of naive strategy from starting from 0 floor and moving upwards.
+This will end up having 99 drops if the eggs break from 100th floor.  
+
+So now can you give a better strategy for this problem?
+
+We may make a few assumptions:
 - An egg that survives a fall can be used again.
 - A broken egg must be discarded.
 - The effect of a fall is the same for all eggs.
 - If an egg breaks when dropped, then it would break if dropped from a higher floor.
 - If an egg survives a fall then it would survive a shorter fall.
-
-We need to divise a strategy such that total number of drops in worst case is minimum. 
-
-So obviously, if you thought of naive strategy from starting from 0 floor and moving upwards.
-This will end up having 99 drops if the eggs break from 100th floor. 
-So you need to think more on this.
-
 
 ### Bonus Part
 If you can give the equation you have used to solve this problem. You get bonus points  

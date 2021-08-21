@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# Welcome to The Brain Game, Season 1
 
-You can use the [editor on GitHub](https://github.com/jital94/puzzles/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You will be given 3 problems of easy, medium and hard difficulty. First 3 people to send in correct solutions will be featured in Hall of Fame on this site and will get a surprise voucher
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Each problem is described in 2 parts. First part is the puzzle part which you can solve using general knowledge.
+For the second part, you might need to write the code in the programming language of your choice.  
 
-### Markdown
+If you do not know coding, no issues. You can just mail me the first part of solution and you will be eligible for vouchers.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So let the games begin !!!! 
 
-```markdown
-Syntax highlighted code block
+## Find the counterfeit 
+We are given 8 coins of which 1 is fake. 
+But the scamsters are smart and it is not known if the coin is heavier or lighter  
+You have a 2 pan balance like the one shown below
+<img src="https://assets.telegraphindia.com/telegraph/c33930ea-b58d-4cb3-ba31-13adbec14f26.jpg">
+In how many steps can you figure out which is the fake coin   
 
-# Header 1
-## Header 2
-### Header 3
+###Bonus Part
+Can you solve the same for 30 coins 
 
-- Bulleted
-- List
+###Bonus Part 2
+What if I ask you to solve for N coins. can you write a code for this?
 
-1. Numbered
-2. List
+## Too Many Ants
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Scale the Bell Tower
+This is a famous puzzle. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We have two eggs and we wish to know which floor of 100-floor high Bell Tower it is safe to throw the egg.
+We may make a few assumptions:
 
-### Jekyll Themes
+- An egg that survives a fall can be used again.
+- A broken egg must be discarded.
+- The effect of a fall is the same for all eggs.
+- If an egg breaks when dropped, then it would break if dropped from a higher floor.
+- If an egg survives a fall then it would survive a shorter fall.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jital94/puzzles/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We need to divise a strategy such that total number of drops in worst case is minimum. 
+
+So obviously, if you thought of naive strategy from starting from 0 floor and moving upwards.
+This will end up having 99 drops if the eggs break from 100th floor. 
+So you need to think more on this.
+
+
+###Bonus Part
+If you can give the equation you have used to solve this problem. You get bonus points  
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having any troubles or just need the last mile hint. Feel free to drop a mail at jital1994+puzzles[at]gmail[dot]com

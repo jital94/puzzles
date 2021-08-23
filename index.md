@@ -4,9 +4,9 @@ You will be given 2 problems of medium and hard difficulty.
 **First 3 people to send in correct solutions will be featured in Hall of Fame on this site and will get a surprise voucher**
 
 Each problem is described in 2 parts. First part is the puzzle part which you can solve using general knowledge.
-For the second part, you might need to write the code in the programming language of your choice.  
+For the second part which is bonus, you might need to write the code in the programming language of your choice.  
 
-If you do not know coding, no issues. You can just mail me the first part of solution and you will be eligible for vouchers.
+If you do not know coding, no issues. You can just mail me the first part of solution and you will still be eligible for vouchers.
 
 So let the games begin !!!! 
 

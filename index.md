@@ -56,10 +56,10 @@ If you can give the equation you have used to solve this problem. You get bonus 
 
 ### How to send solutions
 You need to give the answer and explain your approach to the problems in details. You can use any tool you deem fit for this purpose 
-You can do it in multiple ways.
-Fill the google form: https://forms.gle/AmXxw8UJpY9Tran87
+You can do it in multiple ways. <br>
+Fill the google form: https://forms.gle/AmXxw8UJpY9Tran87 <br>
 Or email me word doc / scanned copy to jital1994+puzzles[at]gmail[dot]com
-Email should have subject : GDHS-PZ-[<your name>]-Solutions
+Email should have subject : GDHS-PZ-[<your name>]-Solutions 
 
 
 ### Support or Contact

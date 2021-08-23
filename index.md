@@ -13,18 +13,19 @@ So let the games begin !!!!
 <br /> <br /> 
 
 ## Find the counterfeit 
-We are given 8 coins of which 1 is fake. 
+We are given 4 coins of which 1 is fake. <br>
 But the scamsters are smart and it is not known if the coin is heavier or lighter. You have a 2 pan balance like the one shown below can you find the fake coin?
+How many times do you have to use the pan balance to figure it out
 
 <br />
 <img src="https://assets.telegraphindia.com/telegraph/c33930ea-b58d-4cb3-ba31-13adbec14f26.jpg">
 <br />
 
-How many times do you have to use the pan balance to figure it out   
+   
 
 
 ### Bonus Part
-Can you solve the same for 30 coins 
+Can you solve the same for 13 coins 
 
 ### Bonus Part 2
 What if I ask you to solve for N coins. Can you write a code for this?
@@ -52,6 +53,14 @@ We may make a few assumptions:
 
 ### Bonus Part
 If you can give the equation you have used to solve this problem. You get bonus points  
+
+### How to send solutions
+You need to give the answer and explain your approach to the problems in details. You can use any tool you deem fit for this purpose 
+You can do it in multiple ways.
+Fill the google form: https://forms.gle/AmXxw8UJpY9Tran87
+Or email me word doc / scanned copy to jital1994+puzzles[at]gmail[dot]com
+Email should have subject : GDHS-PZ-[<your name>]-Solutions
+
 
 ### Support or Contact
 Having any troubles or just need the last mile hint. Feel free to drop a mail at jital1994+puzzles[at]gmail[dot]com

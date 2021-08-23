@@ -60,7 +60,7 @@ You need to give the answer and explain your approach to the problems in detail.
 The Sending part, you can do it in multiple ways, whichever convenient <br>
 Fill the Google form: https://forms.gle/AmXxw8UJpY9Tran87 <br>
 Or email me word doc / scanned copy to jital1994+puzzles[at]gmail[dot]com
-Email should have subject : GDHS-PZ-[<your name>]-Solutions 
+Email should have subject : GDHS-PZ-[\<your name\>]-Solutions 
 
 
 ## Support or Contact

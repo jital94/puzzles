@@ -67,6 +67,7 @@ Email should have subject : GDHS-PZ-[\<your name\>]-Solutions
 Having any troubles or just need the last mile hint. Feel free to drop a mail at jital1994+puzzles[at]gmail[dot]com
 
 ## Submissions
+
 | Name    | Time            | Points |
 | -------------- | --------------- | -------|
 | Divya Tyagi    | Aug 25, 4:30    |  20 | 

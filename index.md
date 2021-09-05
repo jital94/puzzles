@@ -71,6 +71,6 @@ Having any troubles or just need the last mile hint. Feel free to drop a mail at
 | Name    | Time            | Points |
 | -------------- | --------------- | -------|
 | Divya Tyagi    | Aug 25, 4:30    |  20 | 
+| V.V. Rupesh Sai Sundhar  | Aug 26, 7:32 PM |   2 |
 | Aditya Bhagat  | Aug 28, 3:07 PM |   8 |
 | Hemakshi Patil | Aug 28, 7:23 PM |   4 |
-| Hemakshi Patil | Aug 28, 7:23 PM |   8 |
